@@ -26,7 +26,7 @@ Projeto desenvolvido utilizando um ESP32 para controlar a posição de um servo 
 
 ## 🔌 Esquema do Circuito
 
-![Circuito](circuito.png)
+![Circuito](https://github.com/kamillymartins/SERVO.MOTOR/blob/main/imagemservo.jpeg)
 
 > Adicione a imagem do circuito com o nome **circuito.png** na pasta do projeto.
 
